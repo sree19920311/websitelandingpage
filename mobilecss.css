@@ -1,0 +1,79 @@
+*
+{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.navhead
+{
+	padding-right: 500px;
+}
+.carousel-caption p
+{
+     font-size: xx-large;
+     transform: translate(-150px,-350px);
+     color: black;
+	 font-weight: 600;
+	 color:black;
+}
+.carousel-caption .para p
+{
+     font-size: xx-large;
+     transform: translate(300px,-100px);
+     color: black;
+	 font-weight: 600;
+	 color: black;
+}
+section#about
+{
+	margin: 100px;
+	border-bottom-style: double;
+	border-color: black;
+	padding: 100px;
+}
+section#latestmobile
+{
+margin: 50px;
+	border-bottom-style: double;
+	border-color: black;
+	padding: 50px;
+}
+section#laptops
+{
+	margin: 50px;
+	border-bottom-style: double;
+	border-color: black;
+	padding: 50px;
+}
+section#signin
+{
+     margin: 50px;
+	border-bottom-style: double;
+	border-color: black;
+	padding:  50px 100px 50px 100px;
+}
+.fromdesign
+ {
+    font-size:20px;
+    background-color: #7e8d29;
+ }
+.formdesign input
+{
+     border:1px solid ;
+     background-color:lavender;
+    border-radius:4px;
+     font-size:15px;margin:14px;
+    }
+.fromerror
+{
+      color:red;
+     }
+ .but {
+    border-radius: 9px;
+    width: 90px;
+    height: 50px;
+    font-size: 25px;
+     margin: 22px 20px;
+    background: #226899;
+    }
+   
